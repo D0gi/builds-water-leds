@@ -1,4 +1,4 @@
-update=Sat 18 Aug 2012 02:56:02 PM EDT
+update=Sun 19 Aug 2012 03:21:25 PM EDT
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -10,7 +10,7 @@ EquName1=devcms
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=library
 NetFmtName=
 HPGLSpd=20
 HPGLDm=15
@@ -50,13 +50,14 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=builds-water-leds
+LibName31=builds-water-leds-test-cache
+LibName32=builds-water-leds
 [pcbnew]
 version=1
 LastNetListRead=
 PadDrlX=0
-PadDimH=100
-PadDimV=100
+PadDimH=1500
+PadDimV=1500
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
@@ -69,7 +70,7 @@ EdgeLar=150
 TxtLar=120
 MSegLar=100
 [pcbnew/libraries]
-LibDir=
+LibDir=library
 LibName1=sockets
 LibName2=connect
 LibName3=discret

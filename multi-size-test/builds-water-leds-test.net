@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Sat 18 Aug 2012 03:47:45 PM EDT
+# EESchema Netlist Version 1.1 created  Sun 19 Aug 2012 03:19:10 PM EDT
 (
  ( /502FD847 LED_WATER_SENS_100_8  D1 LED_WATER_SENS {Lib=LED_WATER_SENS}
   (    1 VCC )
@@ -13,10 +13,6 @@
   (    2 GND )
  )
  ( /502FD869 LED_WATER_SENS_100_30  D16 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
- ( /502FD897 LED_WATER_SENS_100_50  D21 LED_WATER_SENS {Lib=LED_WATER_SENS}
   (    1 VCC )
   (    2 GND )
  )
@@ -36,10 +32,6 @@
   (    1 VCC )
   (    2 GND )
  )
- ( /502FD8BF LED_WATER_SENS_200_50  D22 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
  ( /502FD8C5 LED_WATER_SENS_300_8  D3 LED_WATER_SENS {Lib=LED_WATER_SENS}
   (    1 VCC )
   (    2 GND )
@@ -56,10 +48,6 @@
   (    1 VCC )
   (    2 GND )
  )
- ( /502FD8DD LED_WATER_SENS_300_50  D23 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
  ( /502FD8E3 LED_WATER_SENS_400_8  D4 LED_WATER_SENS {Lib=LED_WATER_SENS}
   (    1 VCC )
   (    2 GND )
@@ -73,30 +61,6 @@
   (    2 GND )
  )
  ( /502FD8F5 LED_WATER_SENS_400_30  D19 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
- ( /502FD8FB LED_WATER_SENS_400_50  D24 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
- ( /502FD901 LED_WATER_SENS_500_8  D5 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
- ( /502FD907 LED_WATER_SENS_500_12  D10 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
- ( /502FD90D LED_WATER_SENS_500_20  D15 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
- ( /502FD913 LED_WATER_SENS_500_30  D20 LED_WATER_SENS {Lib=LED_WATER_SENS}
-  (    1 VCC )
-  (    2 GND )
- )
- ( /502FD919 LED_WATER_SENS_500_50  D25 LED_WATER_SENS {Lib=LED_WATER_SENS}
   (    1 VCC )
   (    2 GND )
  )
@@ -120,64 +84,46 @@
 *
 { Pin List by Nets
 Net 1 "GND" "GND"
+ P4 1
+ P3 1
+ P2 1
  P1 1
- D20 2
- D13 2
+ D11 2
  D8 2
  D3 2
- D22 2
  D17 2
  D12 2
  D7 2
  D2 2
- D21 2
  D16 2
- D11 2
  D6 2
  D1 2
- D25 2
- D15 2
- D10 2
- D18 2
- D24 2
- D19 2
  D14 2
  D9 2
  D4 2
- D23 2
- D5 2
- P4 1
- P3 1
- P2 1
+ D18 2
+ D13 2
+ D19 2
 Net 2 "VCC" "VCC"
+ D8 1
  D1 1
- D9 1
- D4 1
- D23 1
+ P2 2
+ D18 1
  P4 2
  P3 2
- P2 2
+ D4 1
  P1 2
- D14 1
- D12 1
- D18 1
- D13 1
- D8 1
- D3 1
- D22 1
  D17 1
- D7 1
+ D12 1
  D2 1
- D21 1
  D16 1
  D11 1
  D6 1
- D25 1
- D20 1
- D15 1
- D10 1
- D5 1
- D24 1
+ D7 1
+ D3 1
+ D13 1
  D19 1
+ D14 1
+ D9 1
 }
 #End
