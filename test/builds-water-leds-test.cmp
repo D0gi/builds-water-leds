@@ -1,0 +1,206 @@
+Cmp-Mod V01 Created by CvPcb (2011-nov-30)-testing date = Sat 18 Aug 2012 03:46:58 PM EDT
+
+BeginCmp
+TimeStamp = /502FD847;
+Reference = D1;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_100_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8A7;
+Reference = D2;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_200_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8C5;
+Reference = D3;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_300_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8E3;
+Reference = D4;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_400_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD901;
+Reference = D5;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_500_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD856;
+Reference = D6;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_100_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8AD;
+Reference = D7;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_200_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8CB;
+Reference = D8;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_300_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8E9;
+Reference = D9;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_400_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD907;
+Reference = D10;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_500_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD863;
+Reference = D11;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_100_20;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8B3;
+Reference = D12;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_200_20;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8D1;
+Reference = D13;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_300_20;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8EF;
+Reference = D14;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_400_20;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD90D;
+Reference = D15;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_500_20;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD869;
+Reference = D16;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_100_30;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8B9;
+Reference = D17;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_200_30;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8D7;
+Reference = D18;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_300_30;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8F5;
+Reference = D19;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_400_30;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD913;
+Reference = D20;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_500_30;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD897;
+Reference = D21;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_100_50;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8BF;
+Reference = D22;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_200_50;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8DD;
+Reference = D23;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_300_50;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD8FB;
+Reference = D24;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_400_50;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FD919;
+Reference = D25;
+ValeurCmp = LED_WATER_SENS;
+IdModule  = LED_WATER_SENS_500_50;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FDB32;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = POWER_CONNECTORS;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FDB41;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = POWER_CONNECTORS;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FDB50;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = POWER_CONNECTORS;
+EndCmp
+
+BeginCmp
+TimeStamp = /502FDB5F;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = POWER_CONNECTORS;
+EndCmp
+
+EndListe
