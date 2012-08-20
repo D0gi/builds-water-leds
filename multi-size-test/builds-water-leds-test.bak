@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sun 19 Aug 2012 05:43:44 PM EDT
+EESchema Schematic File Version 2  date Sun 19 Aug 2012 03:18:38 PM EDT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -31,7 +31,6 @@ LIBS:contrib
 LIBS:valves
 LIBS:builds-water-leds-test-cache
 LIBS:builds-water-leds
-LIBS:builds-water-leds-test-cache
 EELAYER 25  0
 EELAYER END
 $Descr USLetter 8500 11000 portrait
