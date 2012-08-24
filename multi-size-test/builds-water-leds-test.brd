@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Tue 21 Aug 2012 01:49:49 PM EDT
+PCBNEW-BOARD Version 1 date Fri 24 Aug 2012 05:01:16 PM EDT
 
 # Created by Pcbnew(2011-nov-30)-testing
 
@@ -11,7 +11,7 @@ VisibleLayers 1F7F8001
 Links 38
 NoConn 0
 Di 48174 31873 102710 75460
-Ndraw 8
+Ndraw 9
 Ntrack 37
 Nzone 0
 BoardThickness 630
@@ -22,7 +22,7 @@ $EndGENERAL
 $SHEETDESCR
 Sheet A3 16535 11693
 Title ""
-Date "21 aug 2012"
+Date "24 aug 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1011,6 +1011,11 @@ Ne 1 "GND"
 Po 0 -2400
 $EndPAD
 $EndMODULE LED_WATER_SENS_200_12
+$TEXTPCB
+Te "Credit to Antonin Fourneau"
+Po 91000 38000 600 800 120 0
+De 21 1 0 Normal
+$EndTEXTPCB
 $TEXTPCB
 Te "D57460"
 Po 95500 36750 600 800 120 0

@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 22 Aug 2012 10:36:07 AM EDT
+EESchema Schematic File Version 2  date Fri 24 Aug 2012 04:59:22 PM EDT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Water LED Graffiti Test"
-Date "22 aug 2012"
+Date "24 aug 2012"
 Rev "A"
 Comp "Christopher Woodall - BUILDS (builds.cc)"
 Comment1 ""
@@ -633,4 +633,6 @@ Text Notes 8750 2600 0    100  ~ 0
 Top\n
 Text Notes 7100 2250 0    100  ~ 0
 Power Connectors (Left, Right, Top Bottom)
+Text Notes 6350 7250 0    90   ~ 0
+Credit to Antonin Fourneau
 $EndSCHEMATC
